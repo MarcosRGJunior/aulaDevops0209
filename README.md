@@ -5,4 +5,4 @@ Filmes favoritos<br>
 2° The Breakfast Club <br>
 3° Chinatown <br>
 4° Monty Python Em busca do Calice Sagrado <br>
-Modificando para gerar conflito
+Gerado conflito e existe uma opção de Resolve
